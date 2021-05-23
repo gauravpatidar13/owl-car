@@ -26,6 +26,8 @@
     "cors": "^2.8.5",
     "firebase": "^8.1.1",
     "jquery": "^3.5.1",
+    "ngx-owl-carousel": "^2.0.7",
+    "owl.carousel": "^2.3.4",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
